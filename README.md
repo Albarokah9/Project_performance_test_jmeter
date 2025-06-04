@@ -27,5 +27,5 @@ jmeter -g results.jtl -o new_report
 
 ## Files
 - `bobobobo.com.jmx` - Test plan
-- `bobobobo result.jtl` - Results data  
+- `bobobobo.com.result.jtl` - Results data  
 - `report/` - HTML dashboard
