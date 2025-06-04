@@ -1,6 +1,6 @@
-# Voila.id Performance Test
+# bobobobo.com Performance Test
 
-JMeter performance testing for Voila.id website.
+JMeter performance testing for bobobobo.com website.
 
 ## Requirements
 - Java 8+
@@ -26,6 +26,6 @@ jmeter -g results.jtl -o new_report
 ```
 
 ## Files
-- `voila.id.jmx` - Test plan
-- `results.jtl` - Results data  
+- `bobobobo.com.jmx` - Test plan
+- `bobobobo result` - Results data  
 - `report/` - HTML dashboard
