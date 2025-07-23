@@ -10,7 +10,7 @@ JMeter performance testing for bobobobo.com website.
 
 ```bash
 # Run test
-jmeter -n -t voila.id.jmx -l results.jtl -e -o report
+jmeter -n -t bobobobo.com.jmx -l results.jtl -e -o report
 
 # View results
 open report/index.html
