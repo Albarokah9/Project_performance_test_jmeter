@@ -1,0 +1,2 @@
+cd C:\Users\albar\OneDrive\Dokumen\Project_Bootcamp\Project_performance_test_jmeter>
+jmeter -n -t "Test Plan\bobobobo.com.jmx" -l "bobobobo.com result_2.jtl" -e -o "bobobobo.com html reportv2"
